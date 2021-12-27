@@ -1,0 +1,17 @@
+//HTML: Structure for page. <div></div>, <section></section> <h></h> <p></p>
+//CSS: Styling : color, border, image, etc
+//JS: Behaviour (client side validation :: action)
+elementNode, textNode and attributeNode
+Tree of nodes/element created by the browser
+js can read/write and manipulate DOM
+Window is the main JavaScript object root, aka the global object in a browser
+window.document or just document is the main object of the potentially visible (or better yet: rendered) document object model/DOM.
+
+
+When u open any html document browser will 
+execute line by lie and as soon as it encountered as script file
+it will stop reading the html and go to script and download
+and execute and continue.
+Browser stop rendering when js encountered
+JS executed before rendering continues. Often refered to as content blocking
+ 
